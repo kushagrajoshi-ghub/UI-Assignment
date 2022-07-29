@@ -1,0 +1,7 @@
+If I have to start a software company, I would like to start it with Prateek Singh Bisht and Pulkit Singla as my partners.
+This is because we are from the same class and have an excellent understanding of each other's strengths and weaknesses. 
+We are aware of the knowledge that we each have and are able to understand and analyse each other's code very well.
+Also, I am a very good programmer and know languages such as C++ and Python alongside being a full-stack developer,
+Pulkit is a full-stack web developer, and Prateek has studied data science and machine learning.
+With this diverse knowledge, we would make a great team to make the software company successful.
+

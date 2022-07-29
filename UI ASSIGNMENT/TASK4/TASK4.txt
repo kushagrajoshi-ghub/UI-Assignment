@@ -1,0 +1,26 @@
+Website Link: https://mediway.000webhostapp.com/
+I have designed a fully functional full-stack website from scratch. The name of the website is mediway.com.
+In this project, I have used many front-end and Back-end technologies/languages which are HTML, CSS, Bootstrap,
+JavaScript, jQuery, AngularJS, AJAX, JSON, PHP & phpMyAdmin, and SQL.
+
+Mediway provides assistance and acts as a link between the donator and the needful so that the process remains
+convenient and trustworthy. We are delighted to have such donators who are able and ready to donate medicine for 
+a noble cause. Also to the ones seeking medicines, we are here to ensure a timely and hassle-free process so that
+it can be convenient for you. 
+
+I came up with this project in 2021 during the time of COVID-19 with an incentive that needy people could get some
+help in medicines for free by the donators who may or may not have the use of those medicines and want to contribute
+them. 
+
+The motive is that one day this project goes live and helps thousands of needy people to get access to lifesaving
+medicines for free.
+
+Workflow of the website:
+On this website, you'll first land on the cover page which is just the brief info about the website.
+On the right-most corner of the navbar, you'll find two buttons which are sign-in or log-in buttons.
+Both perform their functionalities well. By using the log-in button you will either land on one of the
+two dashboards which are, the Contributor dashboard or the Needful dashboard. 
+The contributor profile is for those who want to donate their medicines for free. In the contributor dashboard,
+one can fill in your contact details and also fill in the details of the medicine you got (name, quantity, etc).
+The needful profile is for those who require medicines. In the Needful dashboard, one can fill in their contact
+details and find the medicines available if any.
